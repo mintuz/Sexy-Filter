@@ -12,7 +12,7 @@
 	  	//The Defaults
 	  	var s = $.extend( {
 	  		'type' : 'fade',
-	  		'container' : '.portfolio',
+	  		'container' : '#gallery',
 	  		'low_opacity' : 0.2,
 	  		'high_opacity' : 1.0,
 	  		'speed' : 150
