@@ -7,10 +7,10 @@ You can view it in action on [a friends website](http://sarahameliamodel.com/por
 
 Licenses: There isn't one, do what you wish with the plugin. Though it would be nice to see sites where it has been used.
 
-# Requires
+## Requires
 ===========
 * jQuery 1.8.0+
 
-# Thankyou
+## Thankyou
 ===========
 * Big thanks to @shaunbent and @iceicetimmy for their support whilst developing my web skills. Much appreciated, Maybe one day I can call my self a something wizard.
