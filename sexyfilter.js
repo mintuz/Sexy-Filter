@@ -20,7 +20,7 @@
 	  	}, o );
 
 	  	//On Click do its magic.
-	    $( this ).click( function() {
+	   	 $( this ).click( function() {
 
 			var data = $( this ).data( 'shoot' );
 			var highlight = $( s.container ).find( '.' + data );
